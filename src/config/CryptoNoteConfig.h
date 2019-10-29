@@ -357,6 +357,6 @@ namespace CryptoNote
         {0x66, 0x00, 0x44, 0x5c, 0xcf, 0x52, 0x57, 0x41, 0x65, 0xf9, 0x09, 0xa4, 0xb6, 0xc1, 0x43, 0x66}};
 
     const char *const SEED_NODES[] = {
-        "206.189.142.142:11897", // primary vps
+        "168.235.72.191:11888", // primary vps
     };
 } // namespace CryptoNote
